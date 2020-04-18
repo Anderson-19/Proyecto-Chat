@@ -1,0 +1,13 @@
+Nombre De La base De Datos: chat
+
+
+CREATE TABLE infochat(
+origen character varying(20),
+destino character varying(20),
+iporigen character varying(20),
+ipdestino character varying(20),
+tipo character varying(20),
+contenido character varying(200),
+fecha character varying(20),
+hora character varying(20))
+
